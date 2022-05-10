@@ -8,6 +8,7 @@ Bikeshare Project
 
 ### Description
 Python project in Udacity Data Science course. Taking in raw input to create an interactive experience in the terminal to present statistics.
+City included: Chicago, NYC, Washington
 
 ### Files used
 bikeshare.py
